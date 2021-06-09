@@ -1,6 +1,7 @@
-# dli_workshop_GTC_2021
-DLI workshop GTC 2021: Applications of AI for Anomaly Detection  -- RECAP:
-Why is the kdd99 dataset so easy?
+# NVIDIA dli workshop from the GTC 2021:
+DLI workshop GTC 2021: Applications of AI for Anomaly Detection  
+
+## Why is the kdd99 dataset so/too easy?
 
 1. some simple rules find > 99% of majority classes
 2. UMAP finds good 2-D represenation
